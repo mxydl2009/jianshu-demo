@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1, 
+        "title": "社会热点", 
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "手绘图标",
+        "imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "2020如果你还想做自媒体，这些坑我建议你一定不要踩！",
+        "desc": "1.内容定位 如果你在准备做自媒体的时候，没有想好自己要做的内容，而是东做一个西做一个，没有专注某一领域的内容，最终的结果就是浪费了很多时间和精...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/6171276-3304c2681c7b7995.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 2,
+        "title": "2020如果你还想做自媒体，这些坑我建议你一定不要踩！",
+        "desc": "1.内容定位 如果你在准备做自媒体的时候，没有想好自己要做的内容，而是东做一个西做一个，没有专注某一领域的内容，最终的结果就是浪费了很多时间和精...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/6171276-3304c2681c7b7995.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id": 3,
+        "title": "2020如果你还想做自媒体，这些坑我建议你一定不要踩！",
+        "desc": "1.内容定位 如果你在准备做自媒体的时候，没有想好自己要做的内容，而是东做一个西做一个，没有专注某一领域的内容，最终的结果就是浪费了很多时间和精...",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/6171276-3304c2681c7b7995.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      }
+    ]
+  }
+}
